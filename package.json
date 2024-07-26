@@ -1,0 +1,19 @@
+{
+  "name": "osutwitchclient",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "priject.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run": "node project.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "open": "^10.1.0",
+    "tmi.js": "^1.8.5",
+    "twitch": "^4.6.7"
+  }
+}
